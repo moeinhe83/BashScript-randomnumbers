@@ -8,6 +8,7 @@ Description Of The Files
 
 random1.sh => The Script Is Written With A For Loop
 
-random2.sh => The script is written with a while loop
+random2.sh => The Script Is Written With A While Loop
+
 
 # Finish
