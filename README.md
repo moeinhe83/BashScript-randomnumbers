@@ -1,4 +1,4 @@
-Project Name ===> Bash Script
+Project Name ===> Bash Script Course
 
 Program Name ===> Bash Script - Generate Random Numbers
 
